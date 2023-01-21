@@ -35,3 +35,32 @@
 다시 게임을 시작할 경우, 처음으로 되돌아가 다시 카드 10장을 받는다.
 
 그렇지 않을 경우, 그대로 카드 게임을 종료한다.
+
+
+# [커뮤니케이션 다이어그램]
+
+
+![1  카드 배분](https://user-images.githubusercontent.com/121847260/213859706-7d4938cb-0246-4fd3-9021-9354c1f0d988.png)
+
+
+![2  카드 선택](https://user-images.githubusercontent.com/121847260/213859708-58c131dd-edb1-4087-94cd-214eeb5206f7.png)
+
+
+![3  카드 공개](https://user-images.githubusercontent.com/121847260/213859709-f95ddb79-df4a-45e0-bb41-784675a73b25.png)
+
+
+![4  게임 승부](https://user-images.githubusercontent.com/121847260/213859710-90cfbc64-b479-4aad-afb8-6451d1caa0c2.png)
+
+
+![5  게임 포기](https://user-images.githubusercontent.com/121847260/213859711-5441f42a-1fac-459d-ab92-f871cbd291c2.png)
+
+
+![6  게임 종료](https://user-images.githubusercontent.com/121847260/213859712-37c3aeed-834b-4940-8bde-d8d41ac28468.png)
+
+
+![7  게임 재시작](https://user-images.githubusercontent.com/121847260/213859714-99de7508-4917-43f7-9e4a-61b8cf30d96b.png)
+
+
+# [클래스 다이어그램]
+
+
